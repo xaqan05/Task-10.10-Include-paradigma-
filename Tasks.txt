@@ -1,0 +1,7 @@
+// 1.Verilen 2 ededin yerini deyisdiren metod
+
+// 2.Ededlerden ibaret arrayin menfi elementlerini musbete ceviren metod yazin. (array assign olmadan gonderile bilmesin)
+
+
+// 3. 2 int parametr qebul eden bir method yazirsiniz.Bu ededleri consoleden daxil edirsiniz ve eger int'e cevrile bilirse cemini qaytarirsiniz.
+// (Ededler mutleq sekilde method daxilinde assign olunmalidir.)
